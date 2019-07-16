@@ -2,3 +2,6 @@ The project titled “Shopping Mall Management System” has been developed as p
 The project deals with creation of records,
 inserting data, deleting, searching and
 printing of stored records. It also includes validations.
+
+
+The Screenshot Of The program Can be found at-http://bit.ly/2JBtBxC
