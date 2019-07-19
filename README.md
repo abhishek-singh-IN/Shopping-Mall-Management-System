@@ -5,3 +5,5 @@ printing of stored records. It also includes validations.
 
 
 The Screenshot Of The program Can be found at-http://bit.ly/2JBtBxC
+
+To execute the program copy the code to turbo c.Then compile and run from it.
