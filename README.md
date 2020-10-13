@@ -1,4 +1,4 @@
-#<u>Shopping Mall Management System </u> #
+#Shopping Mall Management System #
 
 The project deals with creation of records,inserting data, deleting, searching and
 printing of stored records.<br>
