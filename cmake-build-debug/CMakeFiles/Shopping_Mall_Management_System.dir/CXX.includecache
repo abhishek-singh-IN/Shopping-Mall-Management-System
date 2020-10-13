@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projects/Shopping Mall Management System/src/account.h
+fstream
+-
+iostream
+-
+conio.h
+-
+time.h
+-
+
+D:/Projects/Shopping Mall Management System/src/item.cpp
+item.h
+D:/Projects/Shopping Mall Management System/src/item.h
+account.h
+D:/Projects/Shopping Mall Management System/src/account.h
+menu.h
+D:/Projects/Shopping Mall Management System/src/menu.h
+
+D:/Projects/Shopping Mall Management System/src/item.h
+fstream
+-
+iostream
+-
+conio.h
+-
+time.h
+-
+
+D:/Projects/Shopping Mall Management System/src/menu.h
+iostream
+-
+cstdio
+-
+conio.h
+-
+
